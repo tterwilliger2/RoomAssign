@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.venv/
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Editor/OS
+.vscode/
+.idea/
+*.swp
+
+# Coverage
+.coverage
+htmlcov/
+
+# Cypress
+frontend/cypress/videos/
+frontend/cypress/screenshots/
+
+# Build artifacts
+backend/.mypy_cache/
+backend/.pytest_cache/

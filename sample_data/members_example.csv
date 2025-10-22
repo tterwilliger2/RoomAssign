@@ -1,0 +1,11 @@
+Name,Year,Roommate Requests,Avoid,Messiness Rating,Sleep Schedule,Temperature Preference,Room Use,Wants Preference Enforced,2p Rank,3p Rank,4p Rank
+Alice Smith,SR,"Bob Jones; Carol Lee",,3,Late,Cool,Study,Yes,1,2,3
+Bob Jones,SR,"Alice Smith",Eve Stone,2,Early,Cool,Social,No,1,3,2
+Carol Lee,JR,"Alice Smith",,4,Mixed,Warm,Mixed,No,2,1,3
+Dave Park,JR,,Eve Stone,3,Early,Cool,Study,No,2,2,1
+Eve Stone,SO,,Bob Jones,5,Late,Warm,Social,Yes,3,2,1
+Frank Yang,SO,"Grace Kim",,2,Early,Cool,Study,No,1,2,3
+Grace Kim,JR,"Frank Yang",,2,Early,Cool,Study,No,1,2,3
+Hank Zhu,FR,,,"",Late,No Preference,Mixed,No,2,3,1
+Ivy Chen,FR,,,"",Early,No Preference,Mixed,No,2,1,3
+Jake Lin,SR,,,"",Mixed,No Preference,Mixed,No,,,
